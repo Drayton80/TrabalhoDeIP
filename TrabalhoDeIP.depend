@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1476847987 source:c:\users\jrcar\documents\introprogr\trabalhodeip\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
