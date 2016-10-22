@@ -170,6 +170,11 @@ int EncontroZumbi (int terminoBatalha){
                       goto retornoEscolhaHabilidade2;
                 }
             }
+             
+            /* USAR ITEM */
+            if (tipoDeAtaque == 3){
+                printf ("Eu disse para voce nao fazer isso. :v \n"); //ALTERAR ISSO, SERIO, LEMBRAR DE FAZER.
+            }
 
             printf ("\n");
             printf ("Ele toma %i de dano.\n", danoJogador);
